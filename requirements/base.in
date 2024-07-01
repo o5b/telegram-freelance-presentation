@@ -1,0 +1,15 @@
+django
+django-admin-sortable2
+django-ckeditor
+django-cleanup
+django-model-utils
+django-modeltranslation
+django-object-actions
+django-request
+django-rosetta
+easy-thumbnails
+singlemodeladmin
+psycopg2
+psycopg2-binary
+python-dotenv
+python-telegram-bot
